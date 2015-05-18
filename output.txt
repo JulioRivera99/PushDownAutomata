@@ -1,0 +1,942 @@
+The string to be worked on is 
+$a_3b$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was a
+The current state is q2
+
+The character that was just processed was _
+The current state is q2
+
+The character that was just processed was 3
+The current state is q2
+
+The character that was just processed was b
+The current state is q2
+
+The character that was just processed was $
+The current state is q4
+
+The string $a_3b$ is accepted in the language 
+ 
+The string to be worked on is 
+$ba76_+r*d3-fg_45n/hi6$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was b
+The current state is q2
+
+The character that was just processed was a
+The current state is q2
+
+The character that was just processed was 7
+The current state is q2
+
+The character that was just processed was 6
+The current state is q2
+
+The character that was just processed was _
+The current state is q2
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was r
+The current state is q2
+
+The character that was just processed was *
+The current state is q1
+
+The character that was just processed was d
+The current state is q2
+
+The character that was just processed was 3
+The current state is q2
+
+The character that was just processed was -
+The current state is q1
+
+The character that was just processed was f
+The current state is q2
+
+The character that was just processed was g
+The current state is q2
+
+The character that was just processed was _
+The current state is q2
+
+The character that was just processed was 4
+The current state is q2
+
+The character that was just processed was 5
+The current state is q2
+
+The character that was just processed was n
+The current state is q2
+
+The character that was just processed was /
+The current state is q1
+
+The character that was just processed was h
+The current state is q2
+
+The character that was just processed was i
+The current state is q2
+
+The character that was just processed was 6
+The current state is q2
+
+The character that was just processed was $
+The current state is q4
+
+The string $ba76_+r*d3-fg_45n/hi6$ is accepted in the language 
+ 
+The string to be worked on is 
+$ba+c4*7e-f8/h98u$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was b
+The current state is q2
+
+The character that was just processed was a
+The current state is q2
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was c
+The current state is q2
+
+The character that was just processed was 4
+The current state is q2
+
+The character that was just processed was *
+The current state is q1
+
+The character that was just processed was 7
+The current state is q5
+
+The character that was just processed was e
+The current state is q5
+
+The character that was just processed was -
+The current state is q5
+
+The character that was just processed was f
+The current state is q5
+
+The character that was just processed was 8
+The current state is q5
+
+The character that was just processed was /
+The current state is q5
+
+The character that was just processed was h
+The current state is q5
+
+The character that was just processed was 9
+The current state is q5
+
+The character that was just processed was 8
+The current state is q5
+
+The character that was just processed was u
+The current state is q5
+
+The character that was just processed was $
+The current state is q5
+
+The string $ba+c4*7e-f8/h98u$ is not accepted in the language 
+ 
+The string to be worked on is 
+$(x23g)y33$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was x
+The current state is q2
+
+The character that was just processed was 2
+The current state is q2
+
+The character that was just processed was 3
+The current state is q2
+
+The character that was just processed was g
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was y
+The current state is q5
+
+The character that was just processed was 3
+The current state is q5
+
+The character that was just processed was 3
+The current state is q5
+
+The character that was just processed was $
+The current state is q5
+
+The string $(x23g)y33$ is not accepted in the language 
+ 
+The string to be worked on is 
+$(((r1+er-fs)*j5))*(a2)$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was r
+The current state is q2
+
+The character that was just processed was 1
+The current state is q2
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was e
+The current state is q2
+
+The character that was just processed was r
+The current state is q2
+
+The character that was just processed was -
+The current state is q1
+
+The character that was just processed was f
+The current state is q2
+
+The character that was just processed was s
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was *
+The current state is q1
+
+The character that was just processed was j
+The current state is q2
+
+The character that was just processed was 5
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was *
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was a
+The current state is q2
+
+The character that was just processed was 2
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was $
+The current state is q4
+
+The string $(((r1+er-fs)*j5))*(a2)$ is accepted in the language 
+ 
+The string to be worked on is 
+$(t0+wk)*bn)/c1$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was t
+The current state is q2
+
+The character that was just processed was 0
+The current state is q2
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was w
+The current state is q2
+
+The character that was just processed was k
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was *
+The current state is q1
+
+The character that was just processed was b
+The current state is q2
+
+The character that was just processed was n
+The current state is q2
+
+The character that was just processed was )
+The current state is q5
+
+The character that was just processed was /
+The current state is q5
+
+The character that was just processed was c
+The current state is q5
+
+The character that was just processed was 1
+The current state is q5
+
+The character that was just processed was $
+The current state is q5
+
+The string $(t0+wk)*bn)/c1$ is not accepted in the language 
+ 
+The string to be worked on is 
+$(((ui+ej*(vk+ci))/pt)$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was u
+The current state is q2
+
+The character that was just processed was i
+The current state is q2
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was e
+The current state is q2
+
+The character that was just processed was j
+The current state is q2
+
+The character that was just processed was *
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was v
+The current state is q2
+
+The character that was just processed was k
+The current state is q2
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was c
+The current state is q2
+
+The character that was just processed was i
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was /
+The current state is q1
+
+The character that was just processed was p
+The current state is q2
+
+The character that was just processed was t
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was $
+The current state is q3
+
+The string $(((ui+ej*(vk+ci))/pt)$ is not accepted in the language 
+ 
+The string to be worked on is 
+$+g5$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was +
+The current state is q5
+
+The character that was just processed was g
+The current state is q5
+
+The character that was just processed was 5
+The current state is q5
+
+The character that was just processed was $
+The current state is q5
+
+The string $+g5$ is not accepted in the language 
+ 
+The string to be worked on is 
+$a1a*(mb/(p+kd34e/e3)-fw)+yq/(((rw*y4_b_d-r57ee*t)/y6+ugf))$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was a
+The current state is q2
+
+The character that was just processed was 1
+The current state is q2
+
+The character that was just processed was a
+The current state is q2
+
+The character that was just processed was *
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was m
+The current state is q2
+
+The character that was just processed was b
+The current state is q2
+
+The character that was just processed was /
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was p
+The current state is q2
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was k
+The current state is q2
+
+The character that was just processed was d
+The current state is q2
+
+The character that was just processed was 3
+The current state is q2
+
+The character that was just processed was 4
+The current state is q2
+
+The character that was just processed was e
+The current state is q2
+
+The character that was just processed was /
+The current state is q1
+
+The character that was just processed was e
+The current state is q2
+
+The character that was just processed was 3
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was -
+The current state is q1
+
+The character that was just processed was f
+The current state is q2
+
+The character that was just processed was w
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was y
+The current state is q2
+
+The character that was just processed was q
+The current state is q2
+
+The character that was just processed was /
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was r
+The current state is q2
+
+The character that was just processed was w
+The current state is q2
+
+The character that was just processed was *
+The current state is q1
+
+The character that was just processed was y
+The current state is q2
+
+The character that was just processed was 4
+The current state is q2
+
+The character that was just processed was _
+The current state is q2
+
+The character that was just processed was b
+The current state is q2
+
+The character that was just processed was _
+The current state is q2
+
+The character that was just processed was d
+The current state is q2
+
+The character that was just processed was -
+The current state is q1
+
+The character that was just processed was r
+The current state is q2
+
+The character that was just processed was 5
+The current state is q2
+
+The character that was just processed was 7
+The current state is q2
+
+The character that was just processed was e
+The current state is q2
+
+The character that was just processed was e
+The current state is q2
+
+The character that was just processed was *
+The current state is q1
+
+The character that was just processed was t
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was /
+The current state is q1
+
+The character that was just processed was y
+The current state is q2
+
+The character that was just processed was 6
+The current state is q2
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was u
+The current state is q2
+
+The character that was just processed was g
+The current state is q2
+
+The character that was just processed was f
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was $
+The current state is q4
+
+The string $a1a*(mb/(p+kd34e/e3)-fw)+yq/(((rw*y4_b_d-r57ee*t)/y6+ugf))$ is accepted in the language 
+ 
+The string to be worked on is 
+$g0*(hs+(df-*ft))$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was g
+The current state is q2
+
+The character that was just processed was 0
+The current state is q2
+
+The character that was just processed was *
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was h
+The current state is q2
+
+The character that was just processed was s
+The current state is q2
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was d
+The current state is q2
+
+The character that was just processed was f
+The current state is q2
+
+The character that was just processed was -
+The current state is q1
+
+The character that was just processed was *
+The current state is q5
+
+The character that was just processed was f
+The current state is q5
+
+The character that was just processed was t
+The current state is q5
+
+The character that was just processed was )
+The current state is q5
+
+The character that was just processed was )
+The current state is q5
+
+The character that was just processed was $
+The current state is q5
+
+The string $g0*(hs+(df-*ft))$ is not accepted in the language 
+ 
+The string to be worked on is 
+$(tg+(hy-j7))/uk)*ri+(eo/wp$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was t
+The current state is q2
+
+The character that was just processed was g
+The current state is q2
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was h
+The current state is q2
+
+The character that was just processed was y
+The current state is q2
+
+The character that was just processed was -
+The current state is q1
+
+The character that was just processed was j
+The current state is q2
+
+The character that was just processed was 7
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was /
+The current state is q1
+
+The character that was just processed was u
+The current state is q2
+
+The character that was just processed was k
+The current state is q2
+
+The character that was just processed was )
+The current state is q5
+
+The character that was just processed was *
+The current state is q5
+
+The character that was just processed was r
+The current state is q5
+
+The character that was just processed was i
+The current state is q5
+
+The character that was just processed was +
+The current state is q5
+
+The character that was just processed was (
+The current state is q5
+
+The character that was just processed was e
+The current state is q5
+
+The character that was just processed was o
+The current state is q5
+
+The character that was just processed was /
+The current state is q5
+
+The character that was just processed was w
+The current state is q5
+
+The character that was just processed was p
+The current state is q5
+
+The character that was just processed was $
+The current state is q5
+
+The string $(tg+(hy-j7))/uk)*ri+(eo/wp$ is not accepted in the language 
+ 
+The string to be worked on is 
+$(tg+(hy-j9))/uk)ri$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was t
+The current state is q2
+
+The character that was just processed was g
+The current state is q2
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was h
+The current state is q2
+
+The character that was just processed was y
+The current state is q2
+
+The character that was just processed was -
+The current state is q1
+
+The character that was just processed was j
+The current state is q2
+
+The character that was just processed was 9
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was /
+The current state is q1
+
+The character that was just processed was u
+The current state is q2
+
+The character that was just processed was k
+The current state is q2
+
+The character that was just processed was )
+The current state is q5
+
+The character that was just processed was r
+The current state is q5
+
+The character that was just processed was i
+The current state is q5
+
+The character that was just processed was $
+The current state is q5
+
+The string $(tg+(hy-j9))/uk)ri$ is not accepted in the language 
+ 
+The string to be worked on is 
+$wm-(tn*bu)+$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was w
+The current state is q2
+
+The character that was just processed was m
+The current state is q2
+
+The character that was just processed was -
+The current state is q1
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was t
+The current state is q2
+
+The character that was just processed was n
+The current state is q2
+
+The character that was just processed was *
+The current state is q1
+
+The character that was just processed was b
+The current state is q2
+
+The character that was just processed was u
+The current state is q2
+
+The character that was just processed was )
+The current state is q3
+
+The character that was just processed was +
+The current state is q1
+
+The character that was just processed was $
+The current state is q5
+
+The string $wm-(tn*bu)+$ is not accepted in the language 
+ 
+The string to be worked on is 
+$wm-tn(*bu)$
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was w
+The current state is q2
+
+The character that was just processed was m
+The current state is q2
+
+The character that was just processed was -
+The current state is q1
+
+The character that was just processed was t
+The current state is q2
+
+The character that was just processed was n
+The current state is q2
+
+The character that was just processed was (
+The current state is q1
+
+The character that was just processed was *
+The current state is q5
+
+The character that was just processed was b
+The current state is q5
+
+The character that was just processed was u
+The current state is q5
+
+The character that was just processed was )
+The current state is q5
+
+The character that was just processed was $
+The current state is q5
+
+The string $wm-tn(*bu)$ is not accepted in the language 
+ 
+The string to be worked on is 
+$wm-)tn*bu($
+The current state is q0
+The character that was just processed was $
+The current state is q1
+
+The character that was just processed was w
+The current state is q2
+
+The character that was just processed was m
+The current state is q2
+
+The character that was just processed was -
+The current state is q1
+
+The character that was just processed was )
+The current state is q5
+
+The character that was just processed was t
+The current state is q5
+
+The character that was just processed was n
+The current state is q5
+
+The character that was just processed was *
+The current state is q5
+
+The character that was just processed was b
+The current state is q5
+
+The character that was just processed was u
+The current state is q5
+
+The character that was just processed was (
+The current state is q5
+
+The character that was just processed was $
+The current state is q5
+
+The string $wm-)tn*bu($ is not accepted in the language 
+ 
